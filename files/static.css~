@@ -1,0 +1,21 @@
+body, html{
+margin:0px;
+padding:0px;
+color:#369;
+}
+#wrapper_all{
+background:#000 url("nc12100.jpg") no-repeat;
+}
+#title{
+padding:10px;
+background-color:#FFF;
+opacity:0.5;
+}
+.post{
+padding:10px;
+background-color:#FFF;
+opacity:0.5;
+}
+.post_title{
+backgoround-color:#F93;
+}
