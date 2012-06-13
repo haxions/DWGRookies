@@ -5,8 +5,10 @@ color:#369;
 height:100%;
 }
 #wrapper_all{
-background:#000 url("nc12100.jpg") no-repeat;
 height:100%;
+width:100%;
+background:#000 url("nc12100.jpg") no-repeat;
+background-size:100% 100%;
 }
 #title{
 padding:10px;
@@ -27,9 +29,10 @@ padding:10px;
 margin:0px;
 font-weight:bold;
 }
+/****** footer *******/
 #copyright{
 background-color:#FFF;
 opacity:0.5;
 text-align:center;
-font-weight:bold;
+font-size:12px;
 }
